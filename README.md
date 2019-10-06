@@ -1,5 +1,5 @@
 # KingDefense
-Android Game (created using Unity)
+Tower defense type Android Game (created using Unity)
 
 -Scripts for unity written in C#
 
